@@ -1,0 +1,4 @@
+/Users/thinslicesacademy15/Desktop/Facultate/PI/lab7/CMakeFiles/lab7.dir
+/Users/thinslicesacademy15/Desktop/Facultate/PI/lab7/CMakeFiles/save_files.dir
+/Users/thinslicesacademy15/Desktop/Facultate/PI/lab7/CMakeFiles/edit_cache.dir
+/Users/thinslicesacademy15/Desktop/Facultate/PI/lab7/CMakeFiles/rebuild_cache.dir
