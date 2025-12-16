@@ -1,0 +1,15 @@
+# Build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+
+# Executables
+lab12
+
+# Output
+output_lab12/
+
+# macOS
+.DS_Store
