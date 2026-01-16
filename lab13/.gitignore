@@ -1,0 +1,16 @@
+# .gitignore for Lab 13
+
+# Build files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+lab13
+
+# Output directory
+output_lab13/
+
+# OS files
+.DS_Store
+*.swp
+*~
